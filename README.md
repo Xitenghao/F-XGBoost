@@ -1,4 +1,4 @@
-# MBR-XGB on MTO
+# F-XGB on MTO
 
 ## ethylene_used
 * './ethylene_used.xlsx' is the data used in ethylene analysis.
